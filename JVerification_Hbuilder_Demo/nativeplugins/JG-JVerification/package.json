@@ -12,7 +12,7 @@
 				"class": "JVerificationModule"
 			}],
 			"integrateType": "framework",
-			"deploymentTarget": "8.0",
+			"deploymentTarget": "9.0",
 			"frameworks": [
 				"AdSupport.framework",
 				"CoreLocation.framework",
@@ -51,7 +51,7 @@
 				}
 			],
 			"integrateType": "aar",
-			"minSdkVersion": "16",
+			"minSdkVersion": "19",
 			"permissions": [
 				"android.permission.INTERNET",
 				"android.permission.READ_PHONE_STATE",
